@@ -1,0 +1,55 @@
+.nav-bar {
+    text-align: center;
+    display: block;
+    display: inline;
+    
+}
+
+.nav-bar .link {
+    padding: .7rem;
+    color: blue;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: larger;
+    display: block;
+    display: inline;
+    
+}
+
+.background-image {
+    background-image: url(/images/quiz.jpg);
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+#submit-btn-answer {
+    font-weight: bolder;
+    font-size: larger;
+    margin: auto;
+    color: blue;
+    margin-top: 2rem;
+}
+
+.label {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.side-input {
+    font-weight: bolder;
+    font-size: larger;
+    margin: auto;
+    display: block;
+    color: blue;
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+}
+
+#output {
+    font-size: xx-large;
+    margin: 1rem;
+    display: block;
+    color: blue;
+    font-weight: bolder;
+}
