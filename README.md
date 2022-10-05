@@ -7,7 +7,7 @@
 This app has various application related to triangles 
 
 An APP Fun With Triangle which helps you and play and to learn about triangles and quiz and many more 
-This site was built using ####HTML,CSS ,JAVASCRIPT]
+This site was built using HTML,CSS ,JAVASCRIPT]
 
 ### Is triangle?
 Checks whether the angles which were given as input make a complete triangle or not
