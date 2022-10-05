@@ -23,7 +23,7 @@ Gives the length of hypotenuse from the 2 given sides length
 Gives area of the triangle by the height and base of triangle given
 
 ## Project Image
-![alt text]("https://user-images.githubusercontent.com/106140073/194101405-f44c0357-ce8f-4525-baa1-8464d7f85dd7.png")
+![alt text](https://user-images.githubusercontent.com/106140073/194101405-f44c0357-ce8f-4525-baa1-8464d7f85dd7.png)
 
 ## [Project Demo]
 (https://mark12-fun-with-traingle.netlify.app/)
